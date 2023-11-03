@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/akarzim/rubosort">
-    <img src="images/rubosort.png" alt="Logo" width="80" height="80">
+    <img src="images/rubosort.png" alt="Logo" width="201" height="82">
   </a>
 
   <h3 align="center">Rubosort</h3>
